@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siriuscom.sagarp.siriusmovieapp",
+    "sha256_cert_fingerprints":
+    ["A4:E1:36:BD:A6:B0:3E:37:BA:C9:5E:2C:02:97:0E:05:80:1B:7B:2E:75:14:04:7E:BF:74:45:68:B8:46:9A:3A"]
+  }
+}]
