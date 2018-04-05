@@ -6,20 +6,4 @@
     "sha256_cert_fingerprints":
     ["37:3B:3C:D9:37:4B:1B:29:23:C7:A0:3D:F0:94:7E:32:5F:81:F5:DE:B2:B8:5B:B3:A9:5B:CD:D2:DA:22:44:98"]
   }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://sagarpagi.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.siriuscom.sagarp.siriusmovieapp",
-    "sha256_cert_fingerprints":
-    ["37:3B:3C:D9:37:4B:1B:29:23:C7:A0:3D:F0:94:7E:32:5F:81:F5:DE:B2:B8:5B:B3:A9:5B:CD:D2:DA:22:44:98"]
-  }
 }]
