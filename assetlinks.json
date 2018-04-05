@@ -2,8 +2,24 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.siriuscom.sagarp.siriusmovieapp.mainfeature",
+    "package_name": "com.siriuscom.sagarp.siriusmovieapp",
     "sha256_cert_fingerprints":
-    ["71:B6:DD:48:44:71:FC:95:06:9F:9B:EE:60:17:E1:25:BF:C8:43:2E:99:12:EC:BF:0A:26:94:61:F0:30:82:DA"]
+    ["A4:E1:36:BD:A6:B0:3E:37:BA:C9:5E:2C:02:97:0E:05:80:1B:7B:2E:75:14:04:7E:BF:74:45:68:B8:46:9A:3A"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://sagarpagi.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siriuscom.sagarp.siriusmovieapp",
+    "sha256_cert_fingerprints":
+    ["A4:E1:36:BD:A6:B0:3E:37:BA:C9:5E:2C:02:97:0E:05:80:1B:7B:2E:75:14:04:7E:BF:74:45:68:B8:46:9A:3A"]
   }
 }]
