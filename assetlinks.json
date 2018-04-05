@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.siriuscom.sagarp.siriusmovieapp",
+    "package_name": "com.siriuscom.sagarp.siriusmovieapp.app",
     "sha256_cert_fingerprints":
     ["71:B6:DD:48:44:71:FC:95:06:9F:9B:EE:60:17:E1:25:BF:C8:43:2E:99:12:EC:BF:0A:26:94:61:F0:30:82:DA"]
   }
