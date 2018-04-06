@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.siriuscom.sagarp.siriusmovie.app",
+    "package_name": "com.siriuscom.sagarp.kfc.app",
     "sha256_cert_fingerprints":
-    ["34:66:72:41:E7:38:FD:85:81:1F:D2:EE:38:F2:29:F0:E2:35:9A:E9:0D:B8:78:FC:A3:0A:B4:BA:27:08:F9:A7"]
+    ["3F:29:35:D7:6F:93:B9:29:85:3D:9F:B4:2F:F3:F2:80:2E:0E:24:F0:4E:C9:BF:EC:48:7F:01:53:38:1D:7C:39"]
   }
 }]
